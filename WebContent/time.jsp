@@ -8,6 +8,6 @@
 </head>
 <body>
 
-지금: <%=new java.util.Date() %>
+지금12: <%=new java.util.Date() %>
 </body>
 </html>
